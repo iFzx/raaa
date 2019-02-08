@@ -1,5 +1,5 @@
 token=NDY5OTA5NjUwNzU0NTAyNjU2.DjOnmg.v3vIggv_YbFb_ETfTXb0sMGPe2I
-owner=405828008759525378
+owner=542787046142640138
 prefix="1"
 songinstatus=false
 stayinchannel=true

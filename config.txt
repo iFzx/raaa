@@ -1,4 +1,8 @@
 token=NDY5OTA5NjUwNzU0NTAyNjU2.DjOnmg.v3vIggv_YbFb_ETfTXb0sMGPe2I
 owner=405828008759525378
-prefix="*"
-songinstatus=true
+prefix="1"
+songinstatus=false
+stayinchannel=true
+npimages=true
+status=IDLE
+game=Watching You Typing. .
